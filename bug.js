@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and you try to run the application on a device or simulator that doesn't meet the minimum requirements specified in your app's `app.json` or `expo.json` file. This can manifest in various ways, including a blank screen, the app crashing immediately, or a generic error message from Expo.
